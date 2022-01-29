@@ -1,4 +1,4 @@
-﻿# Name:     terminal.bat
+﻿# Name:     terminal_a.ps1
 # Purpose:  Opens Windows Terminal.
 # Author:   https://github.com/Sokoloft/
 # Revision: January 29/22
