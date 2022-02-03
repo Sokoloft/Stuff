@@ -1,8 +1,8 @@
-﻿# Name:     terminal.bat
-# Purpose:  Opens Windows Terminal.
+﻿# Name:     close_aw.ps1
+# Purpose:  Closes Active Window.
 # Author:   https://github.com/Sokoloft/
 # Revision: January 29/22
-# Notes: 	 None.
+# Notes: 	 This is depreciated & slow. hotkeyD has a closewindow function now.
 #			  Made possible with https://stackoverflow.com/ copy pasta goodness.
 
 [CmdletBinding()]            

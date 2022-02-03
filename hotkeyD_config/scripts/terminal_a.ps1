@@ -1,5 +1,5 @@
-﻿# Name:     terminal.bat
-# Purpose:  Opens Windows Terminal.
+﻿# Name:     terminal_a.ps1
+# Purpose:  Opens Windows Terminal as Administrator.
 # Author:   https://github.com/Sokoloft/
 # Revision: January 29/22
 # Notes: 	 None.
