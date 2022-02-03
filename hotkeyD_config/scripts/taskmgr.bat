@@ -1,9 +1,9 @@
-:: Name:     update.bat
-:: Purpose:  Opens Windows 10 Update.
+:: Name:     taskmgr.bat
+:: Purpose:  Opens Task Manager.
 :: Author:   https://github.com/Sokoloft/
-:: Revision: October 27/21
+:: Revision: Febuary 2/22
 :: Notes: 	 None.
 ::			  Made possible with https://stackoverflow.com/ copy pasta goodness.
 
-start ms-settings:windowsupdate
+start taskmgr.exe
 exit

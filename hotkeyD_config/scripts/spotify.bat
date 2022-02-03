@@ -5,7 +5,6 @@
 :: Notes: 	 None.
 ::			  Made possible with https://stackoverflow.com/ copy pasta goodness.
 
-@echo off
 tasklist | find /I "Toastify" 
 if errorlevel 1 (
         cd "C:\Program Files\Toastify\"

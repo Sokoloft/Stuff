@@ -1,8 +1,8 @@
-﻿# Name:     close_aw.ps1
+﻿# Name:     terminal.bat
 # Purpose:  Opens Windows Terminal.
 # Author:   https://github.com/Sokoloft/
 # Revision: January 29/22
-# Notes: 	 This is depreciated due to hotkeyD closeWindow function.
+# Notes: 	 None.
 #			  Made possible with https://stackoverflow.com/ copy pasta goodness.
 
 [CmdletBinding()]            

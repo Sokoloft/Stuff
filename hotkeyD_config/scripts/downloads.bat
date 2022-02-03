@@ -5,6 +5,5 @@
 :: Notes: 	 None.
 ::			  Made possible with https://stackoverflow.com/ copy pasta goodness.
 
-@echo off
 explorer.exe "C:\Users\%username%\Downloads"
 exit

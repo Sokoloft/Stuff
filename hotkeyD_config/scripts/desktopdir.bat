@@ -1,9 +1,9 @@
-:: Name:     lock.bat
-:: Purpose:  Lock windows.
+:: Name:     desktopdir.bat
+:: Purpose:  Starts explorer in the Desktop folder.
 :: Author:   https://github.com/Sokoloft/
 :: Revision: Febuary 2/22
 :: Notes: 	 None.
 ::			  Made possible with https://stackoverflow.com/ copy pasta goodness.
 
-Rundll32.exe user32.dll,LockWorkStation
+explorer.exe "C:\Users\%username%\Desktop"
 exit

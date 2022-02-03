@@ -5,7 +5,6 @@
 :: Notes: 	 None.
 ::			  Made possible with https://stackoverflow.com/ copy pasta goodness.
 
-@echo off
 cd "C:\Program Files\Notepad++"
 notepad++.exe
 exit
