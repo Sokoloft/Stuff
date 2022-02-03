@@ -1,11 +1,11 @@
 :: Name:     discord.bat
 :: Purpose:  Opens Discord.
 :: Author:   https://github.com/Sokoloft/
-:: Revision: October 16/21
-:: Notes: 	 None.
+:: Revision: Febuary 2/22 R2
+:: Notes: 	 Modified for use with Discord Canary & PowerCord.
 ::			  Made possible with https://stackoverflow.com/ copy pasta goodness.
 
 @echo off
-cd "C:\Users\%username%\AppData\Local\Discord\"
-start Update.exe --processStart Discord.exe"
+cd "C:\Users\%username%\AppData\Local\DiscordCanary\"
+start Update.exe --processStart DiscordCanary.exe
 exit
