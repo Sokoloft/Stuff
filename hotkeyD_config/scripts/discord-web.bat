@@ -1,4 +1,4 @@
-:: Name:     discord.bat
+:: Name:     discord-web.bat
 :: Purpose:  Opens Discord in the web browser (brave).
 :: Author:   https://github.com/Sokoloft/
 :: Revision: May 31/22 R3
